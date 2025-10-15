@@ -1,0 +1,65 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell
+*.ps1.log
+*.ps1.bak
+
+# Logs
+*.log
+logs/
+Logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+Temp/
+
+# Backup files
+*.bak
+*.backup
+backup/
+Backup/
+
+# Security files (sensitive)
+*.pfx
+*.p12
+*.key
+*.crt
+*.pem
+secrets/
+Secrets/
+
+# IIS specific
+*.config.bak
+web.config.backup
+applicationHost.config.backup
+
+# Tools and executables
+*.exe
+*.dll
+*.msi
+*.zip
+*.7z
+*.rar
+
+# Git
+.git/
+.gitignore.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
